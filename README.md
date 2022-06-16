@@ -3,7 +3,13 @@ Performing analysis KickStarter data to uncover trends
 
 ![Category Statistics](https://user-images.githubusercontent.com/106829056/174130223-4be807de-edef-465d-87cb-0638882d680e.png)
 
-I added screenshot showing the outcome of each category. This includes all countries.
+I added a chart showing the outcome of each category. This includes all countries.
 
-After reviewing the data it is obvious that Theater was the most successful by far.
+Theater was the most successful.
 
+![Outcome based on launch data chart](https://user-images.githubusercontent.com/106829056/174132959-54b81d17-39ae-44a7-90e3-073d9caa67c4.png)
+
+Here is a chart showing the best month to launch and May seems the best month to do so.
+
+Based on my finding I would recommend that Louise starts her funding in May and concentrate on 
+Theaters as it appears to have the best chance of being successful.
