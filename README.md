@@ -1,8 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis KickStarter data to uncover trends
 
-![image of chart](Category Statistics.png)
-
 I added a chart showing the outcome of each category. This includes all countries.
 
 Theater was the most successful.
