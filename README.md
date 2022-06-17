@@ -1,5 +1,4 @@
 # An Analysis of Kickstarter Campaigns
-*Repository Address: https://github.com/cpstell/kickstarter-analysis-/blob/main/README.md
 
 Performing analysis KickStarter data to uncover trends
 
