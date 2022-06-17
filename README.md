@@ -3,7 +3,7 @@ Performing analysis KickStarter data to uncover trends
 
 ![Picture of chart](Category_Statistics.png)
 
-I added a chart showing the outcome of each category. This includes all countries.
+Here's a chart showing the outcome of each category. This includes all countries.
 
 Theater was the most successful.
 
