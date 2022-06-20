@@ -31,5 +31,10 @@ by analyzing the data we received.
 
 ### Challenges and Difficulties Encountered
 
+The challenges and difficulties encountered were pinpointing the monetary goals and dates that made for a succesful 
+launch. This was crucial to the success or failure of Louis's attempt to start a play.
+
+## Results
+
 
 
