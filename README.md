@@ -1,6 +1,11 @@
 # An Analysis of Kickstarter Campaigns
 
-Performing analysis KickStarter data to uncover trends
+Repository address: 
+
+## Overview of Project
+
+The purpose of this project was to analyze trends based on funding and launch dates aquired from the 
+Kickstarter campaigns in order to help Louis launch her play called "Fever". 
 
 ![Picture of chart](Category_Statistics.png)
 
