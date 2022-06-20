@@ -36,5 +36,23 @@ launch. This was crucial to the success or failure of Louis's attempt to start a
 
 ## Results
 
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+May and June are the best times to launch while November and December were not good times to launch.
+
+- What can you conclude about the Outcomes based on Goals?
+
+$5,000 or less was the best monetary goal for success.
+
+- What are some limitations of this dataset?
+
+The limitations of this dataset is that doesn't give us everyting we need to see the whole picture. By 
+having more information in terms of investors and money we could refine our results even more.
+
+- What are some other possible tables and/or graphs that we could create?
+
+We could take the same information and present it in a different graph or chart like a Box and Whisker
+chart or pie chart.
+
 
 
