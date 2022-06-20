@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-Repository address: 
+Repository address: https://github.com/cpstell/kickstarter-analysis-
 
 ## Overview of Project
 
@@ -11,7 +11,7 @@ To use the data I received to help Louis find the best path forward to launch he
 The purpose of this project was to analyze trends based on funding and launch dates aquired from the 
 Kickstarter campaigns in order to help Louis launch her play called "Fever". 
 
-### Analysis and Challenges
+## Analysis and Challenges
 
 The analysis was to figure out the most succesful time of the year to launch and how much money
 would be needed in order to make this happen. The challenge was finding the information we needed
