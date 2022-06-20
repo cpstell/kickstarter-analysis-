@@ -6,6 +6,7 @@ Repository address: https://github.com/cpstell/kickstarter-analysis-
 
 To use the data I received to help Louis find the best path forward to launch her play.
 
+
 ### Purpose
 
 The purpose of this project was to analyze trends based on funding and launch dates aquired from the 
