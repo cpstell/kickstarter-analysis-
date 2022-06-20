@@ -11,7 +11,7 @@ Kickstarter campaigns in order to help Louis launch her play called "Fever".
 
 
 
-![Picture of chart](Theater_Outcomes_vs_Launch.png)
+
 
 
 
